@@ -1,3 +1,10 @@
+#Ashton Chiang
+#1869119
+#CIS 2348
+#Professor Ratner
+
+
+
 def get_age():
     age = int(input())
     if(age>=18 and age<=75):

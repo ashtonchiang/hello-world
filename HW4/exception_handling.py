@@ -1,3 +1,9 @@
+#Ashton Chiang
+#1869119
+#CIS 2348
+#Professor Ratner
+
+
 result = []
 
 while(1):

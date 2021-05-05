@@ -1,3 +1,11 @@
+#Ashton Chiang
+#1869119
+#CIS 2348
+#Professor Ratner
+
+
+
+
 def selection_sort_descend_trace(lst):
     for i in range(len(lst) - 1):
         largest_value_index = i
